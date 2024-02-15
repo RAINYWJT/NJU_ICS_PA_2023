@@ -1,0 +1,44 @@
+/home/rainy/ics2023/navy-apps/apps/bird/build/riscv32/repo/src/BirdMain.o: \
+ /home/rainy/ics2023/navy-apps/apps/bird/repo/src/BirdMain.cpp \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/SDL.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/stdint.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/_default_types.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/features.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/_newlib_version.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_intsup.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_stdint.h \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/sdl-general.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/stdio.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/_ansi.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/newlib.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/config.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/ieeefp.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/cdefs.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/reent.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/_ansi.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_types.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/_types.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/lock.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/types.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/endian.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/_endian.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/select.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_sigset.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_timeval.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/timespec.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_timespec.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_pthreadtypes.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/sched.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/types.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/stdio.h \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/sdl-event.h \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/sdl-timer.h \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/sdl-video.h \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/sdl-audio.h \
+ /home/rainy/ics2023/navy-apps/libs/libminiSDL/include/sdl-file.h \
+ /home/rainy/ics2023/navy-apps/libs/libSDL_image/include/SDL_image.h \
+ repo/include/BirdMain.h repo/include/Sprite.h repo/include/BirdGame.h \
+ repo/include/Video.h repo/include/Audio.h repo/include/Video.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/stdlib.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/machine/stdlib.h \
+ /home/rainy/ics2023/navy-apps/libs/libc/include/sys/_locale.h

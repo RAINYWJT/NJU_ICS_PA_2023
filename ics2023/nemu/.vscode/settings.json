@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "isa.h": "c",
+        "reg.h": "c",
+        "cpu.h": "c",
+        "regex.h": "c",
+        "string_view": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "history.h": "c",
+        "decode.h": "c",
+        "difftest.h": "c",
+        "alarm.h": "c",
+        "common.h": "c",
+        "isa-def.h": "c",
+        "stdbool.h": "c",
+        "random": "c"
+    }
+}

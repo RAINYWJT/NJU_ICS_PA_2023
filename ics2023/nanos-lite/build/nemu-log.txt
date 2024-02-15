@@ -1,0 +1,14 @@
+[1;34m[src/utils/log.c:31 init_log] Log is written to /home/rainy/ics2023/nanos-lite/build/nemu-log.txt[0m
+[1;34m[src/memory/paddr.c:63 init_mem] physical memory area [0x80000000, 0x87ffffff][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'serial' at [0xa00003f8, 0xa00003ff][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'rtc' at [0xa0000048, 0xa000004f][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'vgactl' at [0xa0000100, 0xa0000107][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'vmem' at [0xa1000000, 0xa10752ff][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'keyboard' at [0xa0000060, 0xa0000063][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'audio' at [0xa0000200, 0xa0000217][0m
+[1;34m[src/device/io/mmio.c:50 add_mmio_map] Add mmio map 'audio-sbuf' at [0xa1200000, 0xa120ffff][0m
+[1;34m[src/monitor/monitor.c:62 load_img] The image is /home/rainy/ics2023/nanos-lite/build/nanos-lite-riscv32-nemu.bin, size = 34861096[0m
+[1;34m[src/monitor/monitor.c:29 welcome] Trace: [1;32mON[0m[0m
+[1;34m[src/monitor/monitor.c:30 welcome] If trace is enabled, a log file will be generated to record the trace. This may lead to a large log file. If it is not necessary, you can disable it in menuconfig[0m
+[1;34m[src/monitor/monitor.c:33 welcome] Build time: 15:53:00, Jan 15 2024[0m
+[1;34m[src/monitor/monitor.c:36 welcome] Exercise: Please remove me in the source code and compile NEMU again.[0m
