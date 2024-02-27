@@ -12,3 +12,7 @@ pa4的oj全过，但是并没有做完，具体问题出在4.2最后的mm-brk部
 ps：作者本人没啥技术力，菜鸡一个，代码风格也比较糟糕，敬请谅解
 
 补充：pa的正确打开方式还是得自己上手理解.这个本身只是我拿来记录一下的，东西不完全
+
+Please not commit repo by accident or else, no matter in what kind of case, thanks!
+
+And if OK or it helps you a lot , please give me a star, thanks!
